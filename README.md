@@ -49,6 +49,6 @@ statistical concepts to mock data analytic deliverables.
 -   **03\_do\_inferential\_stats.R**: Steps taken to demonstrate
     inferential statistics concepts.
 
-#### /code/functions**: Functions used in the previously identified scripts.
+#### /code/functions: Functions used in the previously identified scripts.
 -  funs\_do\_descriptive\_stats.R
 -  funs\_do\_inferential\_stats.R
