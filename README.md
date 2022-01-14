@@ -39,7 +39,8 @@ statistical concepts to mock data analytic deliverables.
 
 ### The Code
 
-#### /code/script
+#### /code
+**/scripts**
 
 -   **01\_data\_cleaning.R**: Steps taken to clean original dataset.
 
@@ -49,6 +50,6 @@ statistical concepts to mock data analytic deliverables.
 -   **03\_do\_inferential\_stats.R**: Steps taken to demonstrate
     inferential statistics concepts.
 
--   **/functions**: Functions used in the previously identified scripts.
-    Includes funs\_do\_descriptive\_stats.R and
-    funs\_do\_inferential\_stats.R
+**/functions**: Functions used in the previously identified scripts.
+-  funs\_do\_descriptive\_stats.R
+-  funs\_do\_inferential\_stats.R
