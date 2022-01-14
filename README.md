@@ -28,11 +28,9 @@ employees across the years 2011 to 2014, For the purpose of this
 project, the dataset is used to demonstrate how to apply basic
 statistical concepts to mock data analytic deliverables.
 
-#### /raw\_data
+#### /data
 
 -   **SF\_Salary.csv**: raw data pulled from Kaggle
-
-#### /processed\_data
 
 -   **SF\_Salary\_Clean.csv**: cleansed data (product of
     *01\_data\_cleaning.R* script).
